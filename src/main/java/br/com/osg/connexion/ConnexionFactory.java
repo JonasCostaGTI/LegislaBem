@@ -26,8 +26,6 @@ public class ConnexionFactory {
 		}
 		return connection;
 	}
-	
-	
 
 	public void executeSQL(String sql) {
 		try {
