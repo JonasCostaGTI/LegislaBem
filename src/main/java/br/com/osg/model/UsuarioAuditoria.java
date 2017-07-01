@@ -4,7 +4,7 @@ import java.util.Date;
 
 import com.google.gson.annotations.SerializedName;
 
-public class Usuario_auditoria {
+public class UsuarioAuditoria {
 	
 	private Integer usuario_auditoria_id;
 	
@@ -16,7 +16,6 @@ public class Usuario_auditoria {
 	private String ip;
 	
 	private String operacao;
-	
 	
 	
 	public Integer getUsuario_auditoria_id() {
